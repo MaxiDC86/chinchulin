@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo_principal{
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+}
