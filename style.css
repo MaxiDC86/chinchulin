@@ -2,9 +2,29 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0%;
+}
+.container{
+    width: 80%;
 }
 .logo_principal{
     display: flex;
     align-self: center;
     justify-content: space-around;
+}
+.titulo_principal{
+    height: 35vh;
+}
+footer{
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 5vh;
+    width: 100%;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+footer p{
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
